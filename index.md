@@ -1,7 +1,7 @@
 # Automation Testing
 
 ### It is a fun way to learn the way to optimize testing by automating some of the testcases using Selenium, Java and other tools.
-## Using Katalon Recorder: to record the steps used in a test case for UI testing
+## Using Katalon Recorder IDE Tool: to record the steps used in a test case for UI testing
 ----------------
 ## Export in Katalon Recorder IDE: to export in Web Driver + TestNG framework, a Java Maven project.
 ----------------
@@ -14,7 +14,7 @@
 ## Rightclick and add library > Select TestNG, to get it added.
 ## Rightclick the Project - Run as> TestNG test > to find the no. of testcases that failed and passed.
 ![image](https://user-images.githubusercontent.com/45587475/221411659-ad55ab46-4b94-411b-ba7c-2fb2282ea0ef.png)
----------------
+
 
 ---------------
 ##### Project file Link:
