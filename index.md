@@ -1,4 +1,4 @@
-# title: Fun in Testing
+
 # Automation Testing
 
 ### It is a fun way to learn the way to optimize testing by automating some of the testcases using Selenium, Java and other tools.
