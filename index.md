@@ -18,8 +18,8 @@
 
 
 ---------------
-##### Project file Link:
+##### Project file Link: in the main branch
 
-##### Video Link:
+##### Video Link: to be added.
 -----------------
 
